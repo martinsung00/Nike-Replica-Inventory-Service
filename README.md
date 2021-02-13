@@ -8,8 +8,12 @@
 
 ## Contributions
 
-Nathan Quiocson (nathanq95) 
-Hugo Xiong (hugoxiong5)
+- Nathan Quiocson (nathanq95) 
+- Hugo Xiong (hugoxiong5)
+
+## Credits
+
+- Martin Sung (martinsung00)
 
 ## Table of Contents
 
