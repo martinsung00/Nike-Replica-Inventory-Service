@@ -4,10 +4,12 @@
 
 ## Related Projects
 
-- https://github.com/teamName/repo
-- https://github.com/teamName/repo
-- https://github.com/teamName/repo
-- https://github.com/teamName/repo
+- https://github.com/rpt23-sdc-horror
+
+## Contributions
+
+Nathan Quiocson (nathanq95) 
+Hugo Xiong (hugoxiong5)
 
 ## Table of Contents
 
