@@ -8,12 +8,15 @@
 
 ## Contributions
 
-- Nathan Quiocson (nathanq95) 
-- Hugo Xiong (hugoxiong5)
+- Martin Sung
+- Nathan Quiocson
+- Hugo Xiong
 
 ## Credits
 
-- Martin Sung (martinsung00)
+- Martin Sung (martinsung00): developer
+- Nathan Quiocson (nathanq95): reviewer 
+- Hugo Xiong (hugoxiong5): reviewer
 
 ## Table of Contents
 
