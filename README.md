@@ -159,6 +159,3 @@ Project Link: [https://github.com/martinsung00/Nike-Replica-Inventory-Service](h
 ## Acknowledgements
 
 * [Nathan Quiocson]()
-* []()
-* []()
-
