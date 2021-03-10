@@ -18,7 +18,7 @@
 
   <p align="center">
     <p align="center">
-This project re-creates and re-imagines parts of the Nike website by using a service oriented architecture. Unlike websites that utilizes a monolithic architecture, this re-   created Nike.com separates its services into four indepent parts. The inventory service is responsible for storing and displaying the current stock of a specific shoe. Clients are then able to see and select the available sizes on this service before they add an item to the shopping cart.
+This project is dedicated in creating a replica of the Nike product page on the official Nike.com. The inventory service is a micro-service that aggragates the available sizes for a specific product and displays it on the client.
     </p>
     <br />
   </p>
