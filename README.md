@@ -18,7 +18,7 @@
 
   <p align="center">
     <p align="center">
-This project is dedicated in creating a replica of the Nike product page on the official [Nike.com](https://www.nike.com/t/air-vapormax-evo-mens-shoe-WhLBpv/CT2868-002). The inventory service is a micro-service that aggragates the available sizes for a specific product and displays it on the client.
+This project is dedicated in creating a replica of the Nike product page on the official Nike.com. The inventory service is a micro-service that aggragates the available sizes for a specific product and displays it on the client.
     </p>
     <br />
   </p>
